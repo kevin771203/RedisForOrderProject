@@ -1,0 +1,2 @@
+# RedisForOrderProject
+實作Redis處理訂單高併發問題
